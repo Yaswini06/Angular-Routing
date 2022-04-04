@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+
+nav a.active{
+
+    color: blue;
+    color: red;
+
+    /* margin-left: 10px; */
+
+}
+
+nav a{
+
+padding: 5px 10px;
+
+}
